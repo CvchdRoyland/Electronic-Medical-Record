@@ -1,7 +1,7 @@
 # Patient Registration System
-## Royland C. Badua
-Computer Programmer I
-## CAGAYAN VALLEY CENTER FOR HEALTH DEVELOPMENT
+## Royland C. Badua  
+Computer Programmer I  
+## CAGAYAN VALLEY CENTER FOR HEALTH DEVELOPMENT  
 
 ## Installation Guide
 
@@ -64,33 +64,39 @@ php artisan migrate
 
 ### Step 6: Seed the Database (Optional)
 
-Run seeder to populate the database with initial data:
+Run the seeder to populate the database with initial data:
 
 ```sh
 php artisan db:seed
 ```
 
-### Step 7: Run the Development Server
+Run the command to create a symbolic link for file storage:
 
 ```sh
 php artisan storage:link
 ```
 
-### Step 8: Start the Development Server
+### Step 7: Start the Development Server
 
 ```sh
 php artisan serve
 ```
 
-Access the application at: http://127.0.0.1:8000
+Access the application at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## Admin Panel (Filament)
+
+Access the Filament Admin Panel at:
 
 ```
 http://127.0.0.1:8000/emr
 ```
 
-## Additional Commands
+**Default Admin Credentials:**
+- **Username:** admin@admin.com
+- **Password:** password
+
+### Additional Commands
 
 Clear cache if necessary:
 
