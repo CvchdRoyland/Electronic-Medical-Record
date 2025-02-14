@@ -1,5 +1,7 @@
 # Patient Registration System
-Capability assessment of the EMR System Development
+# Royland C. Badua
+Computer Programmer I
+CAGAYAN VALLET CENTER FOR HEALTH DEVELOPMENT
 
 ## Installation Guide
 
