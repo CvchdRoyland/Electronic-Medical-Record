@@ -96,7 +96,7 @@ http://127.0.0.1:8000/emr
 - **Username:** admin@admin.com
 - **Password:** password
 
-### Additional Commands
+### Additional Command
 
 Run this command to cache the icons:
 
@@ -104,13 +104,6 @@ Run this command to cache the icons:
 php artisan icons:cache
 ```
 
-Clear cache if necessary:
-
-```sh
-php artisan config:clear
-php artisan cache:clear
-php artisan view:clear
-```
 
 Happy coding! 🚀
 
