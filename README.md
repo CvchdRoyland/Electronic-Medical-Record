@@ -1,4 +1,4 @@
-# Patient Registration
+# Patient Registration System
 Capability assessment of the EMR System Development
 
 ## Installation Guide
