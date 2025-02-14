@@ -15,7 +15,7 @@ Ensure you have the following installed on your system:
 ### Step 1: Clone the Repository
 
 ```sh
-git clone [<repository-url>](https://github.com/CvchdRoyland/Electronic-Medical-Record.git)
+git clone https://github.com/CvchdRoyland/Electronic-Medical-Record.git
 cd Electronic-Medical-Record
 ```
 
