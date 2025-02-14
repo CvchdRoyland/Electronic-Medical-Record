@@ -12,7 +12,7 @@ Ensure you have the following installed on your system:
 - PHP (>= 8.1)
 - Composer
 - MySQL or any supported database
-- Node.js & npm (if using frontend assets)
+- Node.js
 
 ### Step 1: Clone the Repository
 
