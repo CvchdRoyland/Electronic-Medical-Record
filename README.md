@@ -1,9 +1,9 @@
 # Patient Registration System
 ## Royland C. Badua
 
-###Computer Programmer I
+### Computer Programmer I
 
-###CAGAYAN VALLET CENTER FOR HEALTH DEVELOPMENT
+### CAGAYAN VALLET CENTER FOR HEALTH DEVELOPMENT
 
 ## Installation Guide
 
