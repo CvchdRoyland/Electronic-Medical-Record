@@ -25,6 +25,7 @@ class DatabaseSeeder extends Seeder
            DemographicSeeder::class,
            IpGroupSeeder::class,
            RelationshipSeeder::class,
+           UserSeeder::class,
         ]);
     }
 }
