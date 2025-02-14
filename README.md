@@ -98,6 +98,12 @@ http://127.0.0.1:8000/emr
 
 ### Additional Commands
 
+Run this command to cache the icons:
+
+```sh
+php artisan icons:cache
+```
+
 Clear cache if necessary:
 
 ```sh
