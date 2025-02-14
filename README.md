@@ -62,7 +62,7 @@ php artisan migrate
 
 ### Step 6: Seed the Database (Optional)
 
-If your project includes seeders, populate the database with initial data:
+Run seeder to populate the database with initial data:
 
 ```sh
 php artisan db:seed
@@ -80,14 +80,12 @@ php artisan storage:link
 php artisan serve
 ```
 
-Access the application at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
+Access the application at: http://127.0.0.1:8000
 
 ## Admin Panel (Filament)
 
-If your project includes Filament Admin Panel, you can access it at:
-
 ```
-http://127.0.0.1:8000/admin
+http://127.0.0.1:8000/emr
 ```
 
 ## Additional Commands
